@@ -33,12 +33,13 @@ export const Skills = () => {
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
-              <p>👨‍💻 Software Developer | 📈 Digital Marketing Mentor
-                🌐 Crafting innovative solutions and empowering others to succeed<br />
-                🔧 Transforming ideas into code | 💡 Unleashing the power of online marketing
+              <p>"👨‍💻 Software Developer | 📈 Digital Marketing Mentor
+                🌐 Crafting innovative solutions with React and Flutter | 💡 Unleashing the power of online marketing
+                🔧 Transforming ideas into code using cutting-edge frameworks
+                🔥 Expertise in React and Flutter for building stunning and performant applications
                 💻 Sharing insights, tips, and resources to level up your tech and marketing skills
-                📚 Lifelong learner | 🌟 Helping you navigate the digital landscape<br/>
-                ✉️ Let's connect and build the future together! 🚀</p>
+                📚 Lifelong learner exploring the latest trends in React and Flutter development
+                ✉️ Let's connect and build the future together! 🚀"</p>
               <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                 <div className="item">
                   <img src={meter1} alt="" />
